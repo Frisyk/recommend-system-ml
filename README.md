@@ -167,7 +167,7 @@ Dataset dibersihkan dari format yang tidak sesuai dengan cara menghilangkan kara
 Setelah bersih, fitur `hotelname`, `roomtype`, `city`, dan `country` digabungkan menjadi satu dengan diberi nama fitur `tags`. fitur inilah yang selanjutnya diolah menjadi dasar sistem rekomendasi hotel.
 
 
-## Modeling
+## Modeling and Result
 Peneliti menggunakan metode Content-Based Filtering (CBF) untuk menjadi dasar sistem rekomendasi.**Content-Based Filtering (CBF)** adalah metode rekomendasi yang menggunakan karakteristik atau fitur dari item untuk memberikan rekomendasi yang relevan bagi pengguna. Model ini membandingkan kesamaan antara item berdasarkan fitur seperti hotel, tipe kamar dan dan lokasi hotel.
 
 ### Feature Extraction
